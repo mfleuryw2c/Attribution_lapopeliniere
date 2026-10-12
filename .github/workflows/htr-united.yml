@@ -19,7 +19,7 @@ jobs:
         run: pip install htrvx
 
       - name: Test XML files
-        run: htrvx data/advertissemensnecessaires_1581 --segmonto --check-empty- --raise-empty-line --xsd
+        run: htrvx data/advertissemensnecessaires_1581 --segmonto --check-empty --raise-empty-line --xsd
 
       - name: Install ChocoMufin
         run: pip install chocomufin
