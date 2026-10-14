@@ -115,15 +115,16 @@
           <TextLine ID="eSc_line_b82b67c1"
                     TAGREFS="LT9"
                     BASELINE="425 2966 865 2986" 
-                    HPOS="425"
-                    VPOS="2966"
-                    WIDTH="440"
-                    HEIGHT="20">
+                    HPOS="416"
+                    VPOS="2844"
+                    WIDTH="446"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="416 3012 852 3037 862 2982 852 2898 673 2908 426 2844 421 2963 416 3012"/></Shape>
             <String CONTENT="C"
-                    HPOS="425"
-                    VPOS="2966"
-                    WIDTH="440"
-                    HEIGHT="20"
+                    HPOS="416"
+                    VPOS="2844"
+                    WIDTH="446"
+                    HEIGHT="193"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_6e0f7f6f"
