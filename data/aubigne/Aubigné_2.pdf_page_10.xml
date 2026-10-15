@@ -525,7 +525,7 @@
                    HEIGHT="520"
                    ID="eSc_textblock_f69868a8"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="751 2832 751 3352 2575 3352 2575 2832"/></Shape>
+          <Shape><Polygon POINTS="751 2832 751 3352 2575 3352 2575 2832 1107 2832"/></Shape>
           <TextLine ID="eSc_line_360dfc3c"
                     TAGREFS="LT9"
                     BASELINE="831 3192 1089 3201" 
@@ -653,7 +653,7 @@
                    WIDTH="422"
                    HEIGHT="413"
                    ID="eSc_textblock_3cfae502"
-                   >
+                   TAGREFS="BT10">
           <Shape><Polygon POINTS="780 2834 773 3241 1195 3241 1195 2828"/></Shape>
         </TextBlock>
       </PrintSpace>
