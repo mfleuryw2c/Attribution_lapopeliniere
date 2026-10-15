@@ -225,7 +225,21 @@
                    HEIGHT="1653"
                    ID="eSc_textblock_c9dd6f93"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="324 1612 324 3265 2186 3265 2186 1612 1459 1612"/></Shape>
+          <Shape><Polygon POINTS="324 1612 324 3265 2186 3265 2186 1612 1459 1612 604 1612"/></Shape>
+          <TextLine ID="eSc_line_6c16d1d3"
+                    BASELINE="435 2004 720 1995" 
+                    HPOS="428"
+                    VPOS="1893"
+                    WIDTH="289"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="431 2001 431 2027 717 2027 717 1992 708 1893 641 1897 638 1897 635 1897 587 1938 508 1954 428 1941 431 2001"/></Shape>
+            <String CONTENT="L"
+                    HPOS="428"
+                    VPOS="1893"
+                    WIDTH="289"
+                    HEIGHT="134"
+                    ></String>
+          </TextLine>
           <TextLine ID="eSc_line_4272a3f4"
                     TAGREFS="LT8"
                     BASELINE="774 1660 2151 1653" 
@@ -234,7 +248,7 @@
                     WIDTH="1379"
                     HEIGHT="93">
             <Shape><Polygon POINTS="1250 1596 1248 1596 1245 1596 1173 1596 1173 1598 1169 1598 1167 1598 1165 1598 1144 1613 1053 1613 1040 1601 1025 1601 1021 1601 987 1611 772 1607 774 1660 774 1687 2149 1679 2151 1653 2147 1596 2083 1594 2081 1594 2079 1594 2077 1594 2060 1607 1948 1594 1946 1594 1785 1607 1766 1594 1764 1594 1762 1594 1696 1594 1694 1594 1692 1594 1658 1609 1609 1596 1607 1596 1605 1596 1480 1598 1478 1598 1476 1598 1463 1611 1267 1611 1252 1596 1250 1596"/></Shape>
-            <String CONTENT="LA guerre d’entre l’Empereur Charles Quint &amp; Heuri II."
+            <String CONTENT="A guerre d’entre l’Empereur Charles Quint &amp; Heuri II."
                     HPOS="772"
                     VPOS="1594"
                     WIDTH="1379"
@@ -610,22 +624,6 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="359"
-                   WIDTH="268"
-                   HEIGHT="3014"
-                   ID="eSc_textblock_e0df8f10"
-                   TAGREFS="BT9">
-          <Shape><Polygon POINTS="268 359 259 1911 259 3373 0 3373 0 474 0 359"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="2901"
-                   WIDTH="2"
-                   HEIGHT="2"
-                   ID="eSc_textblock_e0881448"
-                   >
-          <Shape><Polygon POINTS="2 2903 0 2903 0 2901 2 2901"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="363"
                    VPOS="1181"
                    WIDTH="1894"
@@ -633,14 +631,6 @@
                    ID="eSc_textblock_b25f1769"
                    TAGREFS="BT4249">
           <Shape><Polygon POINTS="363 1181 363 1398 2050 1398 2257 1398 2257 1181 2068 1181"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="2411"
-                   WIDTH="2"
-                   HEIGHT="2"
-                   ID="eSc_textblock_d35f8429"
-                   >
-          <Shape><Polygon POINTS="2 2413 0 2413 0 2411 2 2411"/></Shape>
         </TextBlock>
         <TextBlock HPOS="351"
                    VPOS="1600"
@@ -651,20 +641,12 @@
           <Shape><Polygon POINTS="351 1600 351 2039 774 2039 774 1600"/></Shape>
         </TextBlock>
         <TextBlock HPOS="0"
-                   VPOS="2334"
-                   WIDTH="2"
-                   HEIGHT="3"
-                   ID="eSc_textblock_6891e436"
-                   >
-          <Shape><Polygon POINTS="2 2337 0 2337 0 2334 2 2334"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="1988"
-                   WIDTH="2"
-                   HEIGHT="2"
-                   ID="eSc_textblock_ecba9cc6"
-                   >
-          <Shape><Polygon POINTS="2 1990 0 1990 0 1988 2 1988"/></Shape>
+                   VPOS="407"
+                   WIDTH="226"
+                   HEIGHT="2967"
+                   ID="eSc_textblock_8488cab1"
+                   TAGREFS="BT9">
+          <Shape><Polygon POINTS="226 407 226 3374 0 3374 0 407"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -308,6 +308,21 @@
                    ID="eSc_textblock_58d037cd"
                    TAGREFS="BT4263">
           <Shape><Polygon POINTS="363 1715 363 3329 2187 3329 2187 1715"/></Shape>
+          <TextLine ID="eSc_line_daf936f0"
+                    TAGREFS="LT9"
+                    BASELINE="453 2053 782 2058" 
+                    HPOS="447"
+                    VPOS="1976"
+                    WIDTH="334"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="450 2052 447 2112 774 2116 781 2055 781 1976 723 1976 720 1976 717 1976 714 1976 714 1979 682 2008 644 1985 641 1985 638 1985 635 1985 631 1985 628 1985 628 1989 609 2008 450 2011 450 2052"/></Shape>
+            <String CONTENT="D"
+                    HPOS="447"
+                    VPOS="1976"
+                    WIDTH="334"
+                    HEIGHT="140"
+                    ></String>
+          </TextLine>
           <TextLine ID="eSc_line_b3ef55f0"
                     TAGREFS="LT8"
                     BASELINE="824 1759 2193 1774" 
@@ -316,7 +331,7 @@
                     WIDTH="1371"
                     HEIGHT="117">
             <Shape><Polygon POINTS="2178 1717 2157 1715 2136 1715 2115 1713 2094 1713 2072 1711 2051 1711 2030 1711 2013 1708 1941 1713 1927 1706 1924 1706 1903 1704 1882 1704 1872 1702 1821 1713 1732 1696 1715 1696 1637 1711 1552 1696 1550 1696 1451 1708 1413 1692 1410 1692 1408 1692 1317 1706 1146 1689 1144 1689 1142 1689 1140 1689 1118 1704 1059 1689 1057 1689 1055 1689 1002 1700 953 1687 951 1687 930 1692 909 1694 888 1698 867 1702 846 1704 824 1708 824 1759 822 1776 911 1789 913 1789 953 1780 966 1791 968 1791 970 1791 973 1791 1066 1782 1095 1793 1097 1793 1099 1793 1212 1782 1453 1797 1455 1797 1556 1787 1738 1799 1740 1799 1743 1799 1764 1789 1800 1801 1802 1801 1804 1804 1916 1804 1916 1801 1918 1801 1920 1801 1920 1799 1931 1791 1998 1804 2001 1804 2191 1797 2193 1774 2191 1730 2178 1717"/></Shape>
-            <String CONTENT="D&#x27;AVTRE coſte l’Admiral qui avoit eſté le plus contraire"
+            <String CONTENT="&#x27;AVTRE coſte l’Admiral qui avoit eſté le plus contraire"
                     HPOS="822"
                     VPOS="1687"
                     WIDTH="1371"
@@ -685,21 +700,13 @@
                    >
           <Shape><Polygon POINTS="2 2901 2 2903 0 2903 0 2901"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="380"
-                   WIDTH="281"
-                   HEIGHT="3020"
-                   ID="eSc_textblock_6edb096a"
-                   TAGREFS="BT9">
-          <Shape><Polygon POINTS="281 380 281 3400 0 3400 0 380"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="693"
-                   WIDTH="2"
-                   HEIGHT="2"
-                   ID="eSc_textblock_b8dcd2b5"
-                   >
-          <Shape><Polygon POINTS="2 693 2 695 0 695 0 693"/></Shape>
+        <TextBlock HPOS="2123"
+                   VPOS="372"
+                   WIDTH="96"
+                   HEIGHT="107"
+                   ID="eSc_textblock_1fec3816"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2123 372 2123 479 2219 479 2219 372"/></Shape>
         </TextBlock>
         <TextBlock HPOS="402"
                    VPOS="1473"
@@ -717,13 +724,21 @@
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="420 1698 420 2129 822 2129 822 1698"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="2123"
-                   VPOS="372"
-                   WIDTH="96"
-                   HEIGHT="107"
-                   ID="eSc_textblock_1fec3816"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="2123 372 2123 479 2219 479 2219 372"/></Shape>
+        <TextBlock HPOS="0"
+                   VPOS="693"
+                   WIDTH="2"
+                   HEIGHT="2"
+                   ID="eSc_textblock_b8dcd2b5"
+                   >
+          <Shape><Polygon POINTS="2 693 2 695 0 695 0 693"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="0"
+                   VPOS="363"
+                   WIDTH="306"
+                   HEIGHT="3020"
+                   ID="eSc_textblock_0d2c0b9e"
+                   TAGREFS="BT9">
+          <Shape><Polygon POINTS="306 363 306 3383 0 3383 0 363"/></Shape>
         </TextBlock>
         <TextBlock HPOS="0"
                    VPOS="1074"

@@ -631,7 +631,7 @@
                    HEIGHT="1053"
                    ID="eSc_textblock_7a1fa533"
                    TAGREFS="BT20">
-          <Shape><Polygon POINTS="3854 809 3854 1862 2781 1862 2781 809"/></Shape>
+          <Shape><Polygon POINTS="3854 809 3854 1862 3236 1862 2781 1862 2781 809"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

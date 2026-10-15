@@ -45,29 +45,6 @@
                     WC="0.9999887347221375"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1334"
-                   VPOS="360"
-                   WIDTH="854"
-                   HEIGHT="91"
-                   ID="eSc_textblock_b3046b76"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1334 360 1334 451 2188 451 2188 360"/></Shape>
-          <TextLine ID="eSc_line_b051c07b"
-                    TAGREFS="LT8"
-                    BASELINE="1349 427 2142 418" 
-                    HPOS="1347"
-                    VPOS="372"
-                    WIDTH="795"
-                    HEIGHT="82">
-            <Shape><Polygon POINTS="2130 384 1840 387 1772 376 1770 376 1768 376 1766 376 1749 387 1556 372 1554 372 1552 372 1550 372 1550 374 1533 391 1451 378 1432 382 1410 387 1389 391 1368 395 1347 399 1349 427 1349 454 1548 437 1927 446 1929 446 2032 433 2045 444 2045 446 2047 446 2049 446 2051 448 2117 448 2117 446 2119 446 2121 446 2142 431 2142 418 2136 389 2130 384"/></Shape>
-            <String CONTENT="LES HISTOIRES DV"
-                    HPOS="1347"
-                    VPOS="372"
-                    WIDTH="795"
-                    HEIGHT="82"
-                    WC="0.9838933572173119"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="779"
                    VPOS="444"
                    WIDTH="1874"
@@ -166,6 +143,20 @@
                    ID="eSc_textblock_adb353b8"
                    TAGREFS="BT4263">
           <Shape><Polygon POINTS="744 896 744 3372 2590 3372 2590 896"/></Shape>
+          <TextLine ID="eSc_line_d405fd19"
+                    BASELINE="827 1253 1143 1257" 
+                    HPOS="822"
+                    VPOS="1183"
+                    WIDTH="317"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="825 1249 822 1300 1136 1300 1139 1256 1139 1183 1095 1183 1092 1183 1089 1183 1085 1183 1041 1218 981 1189 978 1189 974 1189 971 1189 968 1189 939 1211 825 1202 825 1249"/></Shape>
+            <String CONTENT=""
+                    HPOS="822"
+                    VPOS="1183"
+                    WIDTH="317"
+                    HEIGHT="117"
+                    ></String>
+          </TextLine>
           <TextLine ID="eSc_line_a89ef0c1"
                     TAGREFS="LT8"
                     BASELINE="1203 941 2584 941" 
@@ -174,7 +165,7 @@
                     WIDTH="1381"
                     HEIGHT="87">
             <Shape><Polygon POINTS="2578 898 2572 892 2377 892 2347 877 2345 877 2343 877 2261 892 2163 892 2134 877 2132 877 2130 877 1986 890 1943 877 1941 877 1939 877 1937 877 1884 890 1795 877 1793 877 1675 890 1639 879 1637 879 1635 879 1633 879 1603 890 1508 877 1506 877 1503 877 1474 888 1440 877 1438 877 1436 877 1203 879 1203 941 1203 964 2584 960 2584 941 2584 907 2578 898"/></Shape>
-            <String CONTENT="DE Calais le Duc de Guiſe donna à Guines où comman¬"
+            <String CONTENT="E Calais le Duc de Guiſe donna à Guines où comman¬"
                     HPOS="1203"
                     VPOS="877"
                     WIDTH="1381"
@@ -690,6 +681,29 @@
                     WIDTH="1785"
                     HEIGHT="112"
                     WC="0.9970458391783894"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1334"
+                   VPOS="360"
+                   WIDTH="854"
+                   HEIGHT="91"
+                   ID="eSc_textblock_b3046b76"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1334 360 1334 451 2188 451 2188 360"/></Shape>
+          <TextLine ID="eSc_line_b051c07b"
+                    TAGREFS="LT8"
+                    BASELINE="1349 427 2142 418" 
+                    HPOS="1347"
+                    VPOS="372"
+                    WIDTH="795"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2130 384 1840 387 1772 376 1770 376 1768 376 1766 376 1749 387 1556 372 1554 372 1552 372 1550 372 1550 374 1533 391 1451 378 1432 382 1410 387 1389 391 1368 395 1347 399 1349 427 1349 454 1548 437 1927 446 1929 446 2032 433 2045 444 2045 446 2047 446 2049 446 2051 448 2117 448 2117 446 2119 446 2121 446 2142 431 2142 418 2136 389 2130 384"/></Shape>
+            <String CONTENT="LES HISTOIRES DV"
+                    HPOS="1347"
+                    VPOS="372"
+                    WIDTH="795"
+                    HEIGHT="82"
+                    WC="0.9838933572173119"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2346"

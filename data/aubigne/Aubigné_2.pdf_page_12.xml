@@ -690,13 +690,13 @@
                     WC="0.9863815251234416"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2311"
+        <TextBlock HPOS="2284"
                    VPOS="3293"
-                   WIDTH="171"
-                   HEIGHT="93"
+                   WIDTH="198"
+                   HEIGHT="97"
                    ID="eSc_textblock_facbb221"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="2311 3386 2311 3293 2482 3293 2482 3386"/></Shape>
+          <Shape><Polygon POINTS="2284 3390 2284 3297 2482 3293 2482 3386"/></Shape>
           <TextLine ID="eSc_line_d3dc387d"
                     TAGREFS="LT8"
                     BASELINE="2282 3341 2474 3341" 
@@ -718,7 +718,7 @@
                    WIDTH="186"
                    HEIGHT="2925"
                    ID="eSc_textblock_9a35e729"
-                   >
+                   TAGREFS="BT9">
           <Shape><Polygon POINTS="2621 440 2621 3365 2807 3365 2807 440"/></Shape>
         </TextBlock>
       </PrintSpace>

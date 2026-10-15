@@ -45,29 +45,6 @@
                     WC="0.9674679111031925"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1212"
-                   VPOS="223"
-                   WIDTH="220"
-                   HEIGHT="51"
-                   ID="eSc_textblock_b374200f"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1212 223 1212 274 1432 274 1432 223"/></Shape>
-          <TextLine ID="eSc_line_bb912d0f"
-                    TAGREFS="LT8"
-                    BASELINE="1227 266 1411 263" 
-                    HPOS="1226"
-                    VPOS="228"
-                    WIDTH="185"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="1394 232 1379 229 1375 228 1226 229 1227 266 1227 275 1398 280 1399 280 1401 280 1402 280 1411 272 1411 263 1407 234 1394 232"/></Shape>
-            <String CONTENT="LIVRE"
-                    HPOS="1226"
-                    VPOS="228"
-                    WIDTH="185"
-                    HEIGHT="52"
-                    WC="0.9987191438674927"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="746"
                    VPOS="293"
                    WIDTH="1067"
@@ -404,6 +381,29 @@
                     WIDTH="854"
                     HEIGHT="60"
                     WC="0.9849667814042833"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1212"
+                   VPOS="223"
+                   WIDTH="220"
+                   HEIGHT="51"
+                   ID="eSc_textblock_b374200f"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1212 223 1212 274 1432 274 1432 223"/></Shape>
+          <TextLine ID="eSc_line_bb912d0f"
+                    TAGREFS="LT8"
+                    BASELINE="1227 266 1411 263" 
+                    HPOS="1226"
+                    VPOS="228"
+                    WIDTH="185"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1394 232 1379 229 1375 228 1226 229 1227 266 1227 275 1398 280 1399 280 1401 280 1402 280 1411 272 1411 263 1407 234 1394 232"/></Shape>
+            <String CONTENT="LIVRE"
+                    HPOS="1226"
+                    VPOS="228"
+                    WIDTH="185"
+                    HEIGHT="52"
+                    WC="0.9987191438674927"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="754"

@@ -715,28 +715,12 @@
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="0"
-                   VPOS="323"
-                   WIDTH="292"
-                   HEIGHT="3032"
-                   ID="eSc_textblock_ded40c92"
+                   VPOS="412"
+                   WIDTH="271"
+                   HEIGHT="2927"
+                   ID="eSc_textblock_4d4a046f"
                    TAGREFS="BT9">
-          <Shape><Polygon POINTS="292 323 292 719 292 3355 0 3355 0 2249 0 323"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="465"
-                   WIDTH="2"
-                   HEIGHT="2"
-                   ID="eSc_textblock_9de4cda3"
-                   >
-          <Shape><Polygon POINTS="0 465 2 465 2 467 0 467"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="0"
-                   VPOS="879"
-                   WIDTH="2"
-                   HEIGHT="2"
-                   ID="eSc_textblock_dde2540e"
-                   >
-          <Shape><Polygon POINTS="0 879 2 879 2 881 0 881"/></Shape>
+          <Shape><Polygon POINTS="271 412 271 3339 0 3339 0 412"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
