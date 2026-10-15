@@ -670,22 +670,6 @@
                     WC="0.9999932646751404"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1120"
-                   VPOS="395"
-                   WIDTH="4"
-                   HEIGHT="11"
-                   ID="eSc_textblock_621fd9f8"
-                   >
-          <Shape><Polygon POINTS="1124 406 1120 406 1120 395 1123 395"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="1089"
-                   VPOS="243"
-                   WIDTH="54"
-                   HEIGHT="41"
-                   ID="eSc_textblock_b417c26e"
-                   >
-          <Shape><Polygon POINTS="1143 255 1131 284 1089 278 1105 243"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

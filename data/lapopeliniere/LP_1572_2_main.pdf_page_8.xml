@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="1864"
                   HEIGHT="2757">
+        <TextBlock HPOS="663"
+                   VPOS="263"
+                   WIDTH="379"
+                   HEIGHT="68"
+                   ID="eSc_textblock_41defafd"
+                   TAGREFS="BT4504">
+          <Shape><Polygon POINTS="663 263 663 331 1042 331 1042 263"/></Shape>
+          <TextLine ID="eSc_line_4b69e9c3"
+                    TAGREFS="LT8"
+                    BASELINE="672 304 1031 309" 
+                    HPOS="671"
+                    VPOS="266"
+                    WIDTH="360"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="902 269 887 269 884 269 875 274 867 269 856 269 843 269 832 274 812 269 810 269 795 269 780 269 764 269 754 269 731 272 714 269 703 269 688 269 674 266 672 269 672 304 671 318 1028 323 1031 309 1030 277 932 269 918 269"/></Shape>
+            <String CONTENT="Mars, M.D.LXIII."
+                    HPOS="671"
+                    VPOS="266"
+                    WIDTH="360"
+                    HEIGHT="57"
+                    WC="0.9629987627267838"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1232"
                    VPOS="257"
                    WIDTH="215"
@@ -614,43 +637,6 @@
                     WIDTH="1035"
                     HEIGHT="81"
                     WC="0.9895785089050021"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="663"
-                   VPOS="263"
-                   WIDTH="379"
-                   HEIGHT="68"
-                   ID="eSc_textblock_41defafd"
-                   TAGREFS="BT4504">
-          <Shape><Polygon POINTS="663 263 663 331 1042 331 1042 263"/></Shape>
-          <TextLine ID="eSc_line_4b69e9c3"
-                    TAGREFS="LT8"
-                    BASELINE="672 304 1031 309" 
-                    HPOS="671"
-                    VPOS="266"
-                    WIDTH="360"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="902 269 887 269 884 269 875 274 867 269 856 269 843 269 832 274 812 269 810 269 795 269 780 269 764 269 754 269 731 272 714 269 703 269 688 269 674 266 672 269 672 304 671 318 1028 323 1031 309 1030 277 932 269 918 269"/></Shape>
-            <String CONTENT="Mars, M.D.LXIII."
-                    HPOS="671"
-                    VPOS="266"
-                    WIDTH="360"
-                    HEIGHT="57"
-                    WC="0.9629987627267838"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_6fb65129"
-                    BASELINE="800 294 759 310" 
-                    HPOS="744"
-                    VPOS="257"
-                    WIDTH="55"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="758 307 765 323 779 300 799 300 799 291 783 257 744 271 758 307"/></Shape>
-            <String CONTENT=""
-                    HPOS="744"
-                    VPOS="257"
-                    WIDTH="55"
-                    HEIGHT="66"
-                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="618"

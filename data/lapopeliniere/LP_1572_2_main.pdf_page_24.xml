@@ -22,52 +22,6 @@
                   VPOS="0"
                   WIDTH="1947"
                   HEIGHT="2738">
-        <TextBlock HPOS="433"
-                   VPOS="263"
-                   WIDTH="325"
-                   HEIGHT="55"
-                   ID="eSc_textblock_352cc325"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="433 263 433 318 758 318 758 263"/></Shape>
-          <TextLine ID="eSc_line_d947247e"
-                    TAGREFS="LT8"
-                    BASELINE="444 304 707 304" 
-                    HPOS="444"
-                    VPOS="278"
-                    WIDTH="263"
-                    HEIGHT="47">
-            <Shape><Polygon POINTS="703 289 692 278 444 278 444 304 444 314 596 325 598 325 707 314 707 304 704 295 703 289"/></Shape>
-            <String CONTENT="PREMIER."
-                    HPOS="444"
-                    VPOS="278"
-                    WIDTH="263"
-                    HEIGHT="47"
-                    WC="0.9976319223642349"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1069"
-                   VPOS="263"
-                   WIDTH="67"
-                   HEIGHT="71"
-                   ID="eSc_textblock_175e26b1"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="1069 263 1069 334 1136 334 1136 263"/></Shape>
-          <TextLine ID="eSc_line_96b405ff"
-                    TAGREFS="LT8"
-                    BASELINE="1094 316 1129 316" 
-                    HPOS="1094"
-                    VPOS="279"
-                    WIDTH="35"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="1124 290 1109 279 1094 281 1094 316 1094 337 1129 336 1129 316 1126 292 1124 290"/></Shape>
-            <String CONTENT="13"
-                    HPOS="1094"
-                    VPOS="279"
-                    WIDTH="35"
-                    HEIGHT="58"
-                    WC="0.999983549118042"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="35"
                    VPOS="334"
                    WIDTH="1044"
@@ -106,13 +60,13 @@
                     WC="0.997349825170305"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="29"
+        <TextBlock HPOS="22"
                    VPOS="442"
-                   WIDTH="1047"
-                   HEIGHT="1597"
+                   WIDTH="1054"
+                   HEIGHT="1585"
                    ID="eSc_textblock_21158b87"
                    TAGREFS="BT4404">
-          <Shape><Polygon POINTS="29 442 37 2039 1076 2037 1067 442"/></Shape>
+          <Shape><Polygon POINTS="29 442 22 2011 1076 2027 1067 442"/></Shape>
           <TextLine ID="eSc_line_a452a5aa"
                     TAGREFS="LT8"
                     BASELINE="85 471 1068 478" 
@@ -593,50 +547,51 @@
                     HEIGHT="73"
                     WC="0.9991579584355624"></String>
           </TextLine>
-          <TextLine ID="eSc_line_8d528837"
+        </TextBlock>
+        <TextBlock HPOS="433"
+                   VPOS="263"
+                   WIDTH="325"
+                   HEIGHT="55"
+                   ID="eSc_textblock_352cc325"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="433 263 433 318 758 318 758 263"/></Shape>
+          <TextLine ID="eSc_line_d947247e"
                     TAGREFS="LT8"
-                    BASELINE="76 2050 1048 2062" 
-                    HPOS="74"
-                    VPOS="2015"
-                    WIDTH="974"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="76 2050 74 2061 344 2065 360 2074 362 2074 363 2074 438 2068 468 2076 470 2076 471 2076 546 2068 581 2077 583 2077 742 2079 744 2079 745 2079 762 2071 927 2082 928 2082 1047 2073 1048 2062 1048 2036 901 2035 844 2023 843 2023 841 2023 806 2033 782 2021 780 2021 779 2021 777 2021 755 2033 704 2033 686 2020 685 2020 683 2020 681 2020 680 2020 678 2020 662 2030 592 2030 564 2018 563 2018 561 2018 560 2018 558 2018 546 2029 525 2018 523 2018 522 2018 476 2029 442 2016 441 2016 439 2016 438 2016 401 2027 389 2016 388 2016 386 2016 385 2016 261 2026 223 2015 222 2015 220 2015 219 2015 197 2026 76 2016 76 2050"/></Shape>
-            <String CONTENT="De meſme droit Royal dependent les Interpreta¬"
-                    HPOS="74"
-                    VPOS="2015"
-                    WIDTH="974"
-                    HEIGHT="67"
-                    WC="0.9905971042487932"></String>
+                    BASELINE="444 304 707 304" 
+                    HPOS="444"
+                    VPOS="278"
+                    WIDTH="263"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="703 289 692 278 444 278 444 304 444 314 596 325 598 325 707 314 707 304 704 295 703 289"/></Shape>
+            <String CONTENT="PREMIER."
+                    HPOS="444"
+                    VPOS="278"
+                    WIDTH="263"
+                    HEIGHT="47"
+                    WC="0.9976319223642349"></String>
           </TextLine>
-          <TextLine ID="eSc_line_c716c082"
+        </TextBlock>
+        <TextBlock HPOS="1069"
+                   VPOS="263"
+                   WIDTH="67"
+                   HEIGHT="71"
+                   ID="eSc_textblock_175e26b1"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="1069 263 1069 334 1136 334 1136 263"/></Shape>
+          <TextLine ID="eSc_line_96b405ff"
                     TAGREFS="LT8"
-                    BASELINE="41 2097 1027 2115 1051 2123" 
-                    HPOS="39"
-                    VPOS="2059"
-                    WIDTH="1022"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="41 2097 41 2071 94 2059 95 2059 235 2061 275 2062 277 2062 305 2077 330 2067 336 2067 354 2079 398 2064 401 2064 439 2065 442 2065 465 2080 491 2067 496 2067 523 2080 552 2067 558 2067 578 2082 624 2074 625 2074 666 2083 723 2070 729 2070 756 2086 791 2071 797 2071 815 2085 850 2077 852 2077 914 2088 951 2074 954 2074 1029 2093 1061 2093 1048 2134 899 2135 895 2135 895 2134 887 2128 680 2131 678 2131 618 2121 569 2129 567 2129 481 2118 325 2123 321 2123 312 2115 248 2123 245 2123 217 2112 39 2109"/></Shape>
-            <String CONTENT="tions à l’edict: &amp; eſt la declaration du doute qui ſur¬"
-                    HPOS="39"
-                    VPOS="2059"
-                    WIDTH="1022"
-                    HEIGHT="76"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_dc171862"
-                    TAGREFS="LT8"
-                    BASELINE="41 2147 1051 2166" 
-                    HPOS="39"
-                    VPOS="2109"
-                    WIDTH="1013"
-                    HEIGHT="87">
-            <Shape><Polygon POINTS="41 2147 41 2109 118 2118 283 2114 287 2114 299 2123 339 2115 342 2115 376 2126 388 2117 442 2117 464 2129 560 2129 596 2120 601 2120 637 2132 758 2132 791 2123 796 2123 820 2134 846 2124 850 2124 879 2135 901 2128 904 2128 965 2138 1052 2139 1051 2194 963 2196 962 2196 787 2181 544 2188 543 2188 459 2173 316 2173 159 2181 156 2181 118 2169 39 2176"/></Shape>
-            <String CONTENT="uient en la choſe ordonnee plus naturelle à celuy qui"
-                    HPOS="39"
-                    VPOS="2109"
-                    WIDTH="1013"
-                    HEIGHT="87"
-                    ></String>
+                    BASELINE="1094 316 1129 316" 
+                    HPOS="1094"
+                    VPOS="279"
+                    WIDTH="35"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1109 279 1094 281 1094 316 1094 337 1129 336 1129 316 1126 292 1124 290"/></Shape>
+            <String CONTENT="13"
+                    HPOS="1094"
+                    VPOS="279"
+                    WIDTH="35"
+                    HEIGHT="58"
+                    WC="0.999983549118042"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1071"
@@ -767,6 +722,59 @@
                     WC="0.9971157312393188"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="24"
+                   VPOS="2026"
+                   WIDTH="1040"
+                   HEIGHT="170"
+                   ID="eSc_textblock_34436d6b"
+                   TAGREFS="BT4404">
+          <Shape><Polygon POINTS="24 2196 24 2026 1064 2038 1061 2196"/></Shape>
+          <TextLine ID="eSc_line_8d528837"
+                    TAGREFS="LT8"
+                    BASELINE="76 2050 1048 2062" 
+                    HPOS="74"
+                    VPOS="2015"
+                    WIDTH="974"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="76 2050 74 2061 344 2065 360 2074 362 2074 363 2074 438 2068 468 2076 470 2076 471 2076 546 2068 581 2077 583 2077 742 2079 744 2079 745 2079 762 2071 927 2082 928 2082 1047 2073 1048 2062 1048 2036 901 2035 844 2023 843 2023 841 2023 806 2033 782 2021 780 2021 779 2021 777 2021 755 2033 704 2033 686 2020 685 2020 683 2020 681 2020 680 2020 678 2020 662 2030 592 2030 564 2018 563 2018 561 2018 560 2018 558 2018 546 2029 525 2018 523 2018 522 2018 476 2029 442 2016 441 2016 439 2016 438 2016 401 2027 389 2016 388 2016 386 2016 385 2016 261 2026 223 2015 222 2015 220 2015 219 2015 197 2026 76 2016 76 2050"/></Shape>
+            <String CONTENT="De meſme droit Royal dependent les Interpreta¬"
+                    HPOS="74"
+                    VPOS="2015"
+                    WIDTH="974"
+                    HEIGHT="67"
+                    WC="0.9905971042487932"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c716c082"
+                    TAGREFS="LT8"
+                    BASELINE="41 2097 1027 2115 1051 2123" 
+                    HPOS="39"
+                    VPOS="2059"
+                    WIDTH="1022"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="41 2097 41 2071 94 2059 95 2059 235 2061 275 2062 277 2062 305 2077 330 2067 336 2067 354 2079 398 2064 401 2064 439 2065 442 2065 465 2080 491 2067 496 2067 523 2080 552 2067 558 2067 578 2082 624 2074 625 2074 666 2083 723 2070 729 2070 756 2086 791 2071 797 2071 815 2085 850 2077 852 2077 914 2088 951 2074 954 2074 1029 2093 1061 2093 1048 2134 899 2135 895 2135 895 2134 887 2128 680 2131 678 2131 618 2121 569 2129 567 2129 481 2118 325 2123 321 2123 312 2115 248 2123 245 2123 217 2112 39 2109"/></Shape>
+            <String CONTENT="tions à l’edict: &amp; eſt la declaration du doute qui ſur¬"
+                    HPOS="39"
+                    VPOS="2059"
+                    WIDTH="1022"
+                    HEIGHT="76"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dc171862"
+                    TAGREFS="LT8"
+                    BASELINE="41 2147 1051 2166" 
+                    HPOS="39"
+                    VPOS="2109"
+                    WIDTH="1013"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="41 2147 41 2109 118 2118 283 2114 287 2114 299 2123 339 2115 342 2115 376 2126 388 2117 442 2117 464 2129 560 2129 596 2120 601 2120 637 2132 758 2132 791 2123 796 2123 820 2134 846 2124 850 2124 879 2135 901 2128 904 2128 965 2138 1052 2139 1051 2194 963 2196 962 2196 787 2181 544 2188 543 2188 459 2173 316 2173 159 2181 156 2181 118 2169 39 2176"/></Shape>
+            <String CONTENT="uient en la choſe ordonnee plus naturelle à celuy qui"
+                    HPOS="39"
+                    VPOS="2109"
+                    WIDTH="1013"
+                    HEIGHT="87"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1055"
                    VPOS="2029"
                    WIDTH="207"
@@ -832,14 +840,6 @@
                     HEIGHT="3"
                     ></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="24"
-                   VPOS="2026"
-                   WIDTH="1037"
-                   HEIGHT="170"
-                   ID="eSc_textblock_34436d6b"
-                   TAGREFS="BT4404">
-          <Shape><Polygon POINTS="24 2196 24 2026 1061 2026 1061 2196"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
