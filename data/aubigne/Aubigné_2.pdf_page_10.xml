@@ -520,12 +520,12 @@
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="751"
-                   VPOS="2832"
+                   VPOS="2836"
                    WIDTH="1824"
-                   HEIGHT="520"
-                   ID="eSc_textblock_f69868a8"
+                   HEIGHT="494"
+                   ID="eSc_textblock_f1c2762f"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="751 2832 751 3352 2575 3352 2575 2832 1107 2832"/></Shape>
+          <Shape><Polygon POINTS="751 2836 751 3330 2575 3330 2575 2836"/></Shape>
           <TextLine ID="eSc_line_360dfc3c"
                     TAGREFS="LT9"
                     BASELINE="831 3192 1089 3201" 
