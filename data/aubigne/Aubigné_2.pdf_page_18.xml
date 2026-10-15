@@ -45,6 +45,29 @@
                     ></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="743"
+                   VPOS="827"
+                   WIDTH="1743"
+                   HEIGHT="128"
+                   ID="eSc_textblock_73631968"
+                   TAGREFS="BT22">
+          <Shape><Polygon POINTS="743 827 743 955 2486 955 2486 827"/></Shape>
+          <TextLine ID="eSc_line_939f3064"
+                    TAGREFS="LT8"
+                    BASELINE="818 941 2455 914" 
+                    HPOS="812"
+                    VPOS="843"
+                    WIDTH="1642"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="816 967 2454 958 2454 913 2451 866 2378 843 2365 843 2337 866 2238 859 2200 875 2171 850 2171 847 2156 847 2124 875 2067 856 2054 856 2022 881 1860 881 1844 866 1844 862 1828 862 1803 885 1714 885 1679 856 1667 856 1628 872 1581 843 1438 843 1339 847 1279 891 1203 891 1152 850 1035 850 911 894 812 875 816 939"/></Shape>
+            <String CONTENT="DES AFFAIRES D&#x27;ORIENT."
+                    HPOS="812"
+                    VPOS="843"
+                    WIDTH="1642"
+                    HEIGHT="124"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1227"
                    VPOS="346"
                    WIDTH="868"
@@ -68,26 +91,26 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="743"
-                   VPOS="827"
-                   WIDTH="1743"
-                   HEIGHT="128"
-                   ID="eSc_textblock_73631968"
-                   TAGREFS="BT22">
-          <Shape><Polygon POINTS="743 827 743 955 2486 955 2486 827"/></Shape>
-          <TextLine ID="eSc_line_939f3064"
-                    TAGREFS="LT8"
-                    BASELINE="818 941 2455 914" 
-                    HPOS="812"
-                    VPOS="843"
-                    WIDTH="1642"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="816 967 2454 958 2454 913 2451 866 2378 843 2365 843 2337 866 2238 859 2200 875 2171 850 2171 847 2156 847 2124 875 2067 856 2054 856 2022 881 1860 881 1844 866 1844 862 1828 862 1803 885 1714 885 1679 856 1667 856 1628 872 1581 843 1438 843 1339 847 1279 891 1203 891 1152 850 1035 850 911 894 812 875 816 939"/></Shape>
-            <String CONTENT="DES AFFAIRES D&#x27;ORIENT."
-                    HPOS="812"
-                    VPOS="843"
-                    WIDTH="1642"
-                    HEIGHT="124"
+        <TextBlock HPOS="702"
+                   VPOS="1243"
+                   WIDTH="411"
+                   HEIGHT="414"
+                   ID="eSc_textblock_651b9aed"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="702 1243 702 1657 1113 1657 1113 1243"/></Shape>
+          <TextLine ID="eSc_line_8694b6ac"
+                    TAGREFS="LT10"
+                    BASELINE="765 1600 1072 1608" 
+                    HPOS="758"
+                    VPOS="1545"
+                    WIDTH="312"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="758 1643 1063 1652 1070 1605 1066 1564 762 1545 762 1598"/></Shape>
+            <String CONTENT="A"
+                    HPOS="758"
+                    VPOS="1545"
+                    WIDTH="312"
+                    HEIGHT="107"
                     ></String>
           </TextLine>
         </TextBlock>
@@ -120,22 +143,7 @@
                    HEIGHT="2134"
                    ID="eSc_textblock_02666950"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="650 1214 650 3348 2530 3348 2530 1214"/></Shape>
-          <TextLine ID="eSc_line_8694b6ac"
-                    TAGREFS="LT10"
-                    BASELINE="765 1600 1072 1608" 
-                    HPOS="758"
-                    VPOS="1545"
-                    WIDTH="312"
-                    HEIGHT="107">
-            <Shape><Polygon POINTS="762 1598 758 1643 1063 1652 1070 1605 1066 1564 762 1545 762 1598"/></Shape>
-            <String CONTENT="A"
-                    HPOS="758"
-                    VPOS="1545"
-                    WIDTH="312"
-                    HEIGHT="107"
-                    ></String>
-          </TextLine>
+          <Shape><Polygon POINTS="690 1237 650 3348 2530 3348 2530 1214"/></Shape>
           <TextLine ID="eSc_line_9cfbce63"
                     TAGREFS="LT8"
                     BASELINE="1116 1273 2504 1269" 
@@ -633,14 +641,6 @@
                    ID="eSc_textblock_3623c0bc"
                    TAGREFS="BT4249">
           <Shape><Polygon POINTS="699 987 699 1083 2504 1083 2504 987"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="702"
-                   VPOS="1243"
-                   WIDTH="411"
-                   HEIGHT="414"
-                   ID="eSc_textblock_651b9aed"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="702 1243 702 1657 1113 1657 1113 1243"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

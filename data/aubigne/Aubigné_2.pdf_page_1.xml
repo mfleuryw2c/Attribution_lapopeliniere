@@ -98,13 +98,13 @@
                     WC="0.9996257586912676"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="373"
+        <TextBlock HPOS="382"
                    VPOS="1715"
-                   WIDTH="1855"
+                   WIDTH="1846"
                    HEIGHT="1646"
                    ID="eSc_textblock_b3451316"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="373 1715 382 3361 2228 3308 2228 1715"/></Shape>
+          <Shape><Polygon POINTS="386 1733 382 3361 2228 3308 2228 1715 736 1730"/></Shape>
           <TextLine ID="eSc_line_589e6035"
                     TAGREFS="LT9"
                     BASELINE="453 2111 742 2120" 

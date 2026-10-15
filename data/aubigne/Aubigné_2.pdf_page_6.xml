@@ -22,6 +22,44 @@
                   VPOS="0"
                   WIDTH="2807"
                   HEIGHT="3807">
+        <TextBlock HPOS="624"
+                   VPOS="398"
+                   WIDTH="1898"
+                   HEIGHT="150"
+                   ID="eSc_textblock_18a4b158"
+                   TAGREFS="BT4255">
+          <Shape><Polygon POINTS="624 398 624 548 2522 548 2522 398"/></Shape>
+          <TextLine ID="eSc_line_5434849d"
+                    TAGREFS="LT8"
+                    BASELINE="729 448 2512 431" 
+                    HPOS="727"
+                    VPOS="370"
+                    WIDTH="1785"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2485 380 2466 378 2462 378 2441 378 2419 378 2398 376 2386 376 2381 378 2356 376 2356 376 2335 376 2314 374 2292 374 2271 374 2259 384 2244 374 2229 374 2216 372 2176 380 2094 370 2092 370 2089 370 2047 389 1918 389 1853 372 1850 372 1764 389 1664 376 1662 376 1660 376 1616 393 1474 393 1408 376 1406 376 1404 376 1362 387 1279 378 1277 378 1275 378 1273 378 1256 391 1173 378 1171 378 1091 395 1072 380 1070 380 1068 380 1066 380 1008 391 951 380 949 380 727 399 727 401 729 448 729 480 1396 480 1396 477 1484 467 1520 475 1523 475 1525 475 1527 475 1548 465 1616 475 1618 475 1620 475 1658 463 1836 473 1838 473 1840 473 1872 461 2231 469 2233 469 2510 454 2512 431 2502 397 2485 380"/></Shape>
+            <String CONTENT="Anne de Boulen, laquelle fut mence de la priſon au palais &amp; de l’eſcha¬"
+                    HPOS="727"
+                    VPOS="370"
+                    WIDTH="1785"
+                    HEIGHT="110"
+                    WC="0.9970457662998791"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f1ac094a"
+                    TAGREFS="LT8"
+                    BASELINE="727 516 1159 511" 
+                    HPOS="725"
+                    VPOS="456"
+                    WIDTH="434"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="727 516 727 564 827 564 827 562 829 562 858 547 1154 552 1159 511 1154 471 1061 456 1059 456 992 469 966 456 964 456 962 456 803 471 748 458 746 458 744 458 742 458 740 458 725 469 727 516"/></Shape>
+            <String CONTENT="faut au Throſne."
+                    HPOS="725"
+                    VPOS="456"
+                    WIDTH="434"
+                    HEIGHT="108"
+                    WC="0.9986846782267094"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="695"
                    VPOS="299"
                    WIDTH="226"
@@ -68,44 +106,6 @@
                     WC="0.9997967071831226"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="624"
-                   VPOS="398"
-                   WIDTH="1898"
-                   HEIGHT="150"
-                   ID="eSc_textblock_18a4b158"
-                   TAGREFS="BT4255">
-          <Shape><Polygon POINTS="624 398 624 548 2522 548 2522 398"/></Shape>
-          <TextLine ID="eSc_line_5434849d"
-                    TAGREFS="LT8"
-                    BASELINE="729 448 2512 431" 
-                    HPOS="727"
-                    VPOS="370"
-                    WIDTH="1785"
-                    HEIGHT="110">
-            <Shape><Polygon POINTS="2485 380 2466 378 2462 378 2441 378 2419 378 2398 376 2386 376 2381 378 2356 376 2356 376 2335 376 2314 374 2292 374 2271 374 2259 384 2244 374 2229 374 2216 372 2176 380 2094 370 2092 370 2089 370 2047 389 1918 389 1853 372 1850 372 1764 389 1664 376 1662 376 1660 376 1616 393 1474 393 1408 376 1406 376 1404 376 1362 387 1279 378 1277 378 1275 378 1273 378 1256 391 1173 378 1171 378 1091 395 1072 380 1070 380 1068 380 1066 380 1008 391 951 380 949 380 727 399 727 401 729 448 729 480 1396 480 1396 477 1484 467 1520 475 1523 475 1525 475 1527 475 1548 465 1616 475 1618 475 1620 475 1658 463 1836 473 1838 473 1840 473 1872 461 2231 469 2233 469 2510 454 2512 431 2502 397 2485 380"/></Shape>
-            <String CONTENT="Anne de Boulen, laquelle fut mence de la priſon au palais &amp; de l’eſcha¬"
-                    HPOS="727"
-                    VPOS="370"
-                    WIDTH="1785"
-                    HEIGHT="110"
-                    WC="0.9970457662998791"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_f1ac094a"
-                    TAGREFS="LT8"
-                    BASELINE="727 516 1159 511" 
-                    HPOS="725"
-                    VPOS="456"
-                    WIDTH="434"
-                    HEIGHT="108">
-            <Shape><Polygon POINTS="727 516 727 564 827 564 827 562 829 562 858 547 1154 552 1159 511 1154 471 1061 456 1059 456 992 469 966 456 964 456 962 456 803 471 748 458 746 458 744 458 742 458 740 458 725 469 727 516"/></Shape>
-            <String CONTENT="faut au Throſne."
-                    HPOS="725"
-                    VPOS="456"
-                    WIDTH="434"
-                    HEIGHT="108"
-                    WC="0.9986846782267094"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="988"
                    VPOS="995"
                    WIDTH="1376"
@@ -144,6 +144,29 @@
                     ></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="731"
+                   VPOS="1584"
+                   WIDTH="427"
+                   HEIGHT="404"
+                   ID="eSc_textblock_637d90d1"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="731 1584 731 1988 1158 1988 1158 1584"/></Shape>
+          <TextLine ID="eSc_line_63941533"
+                    TAGREFS="LT9"
+                    BASELINE="822 1947 1085 1933" 
+                    HPOS="812"
+                    VPOS="1801"
+                    WIDTH="270"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="876 2017 879 2017 882 2017 1082 1989 1082 1932 1073 1836 1044 1836 1006 1805 1006 1801 1003 1801 1000 1801 997 1801 993 1801 857 1843 812 1827 819 1944 819 1998"/></Shape>
+            <String CONTENT="N"
+                    HPOS="812"
+                    VPOS="1801"
+                    WIDTH="270"
+                    HEIGHT="216"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1316"
                    VPOS="1402"
                    WIDTH="803"
@@ -167,27 +190,13 @@
                     WC="0.9748564037409696"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="698"
+        <TextBlock HPOS="734"
                    VPOS="1546"
-                   WIDTH="1877"
+                   WIDTH="1841"
                    HEIGHT="1731"
                    ID="eSc_textblock_5965a0e2"
                    >
-          <Shape><Polygon POINTS="698 1546 756 3277 2575 3277 2575 1546 1565 1546"/></Shape>
-          <TextLine ID="eSc_line_63941533"
-                    BASELINE="822 1947 1085 1933" 
-                    HPOS="812"
-                    VPOS="1801"
-                    WIDTH="270"
-                    HEIGHT="216">
-            <Shape><Polygon POINTS="819 1998 876 2017 879 2017 882 2017 1082 1989 1082 1932 1073 1836 1044 1836 1006 1805 1006 1801 1003 1801 1000 1801 997 1801 993 1801 857 1843 812 1827 819 1944 819 1998"/></Shape>
-            <String CONTENT="N"
-                    HPOS="812"
-                    VPOS="1801"
-                    WIDTH="270"
-                    HEIGHT="216"
-                    ></String>
-          </TextLine>
+          <Shape><Polygon POINTS="734 1569 756 3277 2575 3277 2575 1546 1565 1546"/></Shape>
           <TextLine ID="eSc_line_c546d382"
                     TAGREFS="LT8"
                     BASELINE="1157 1632 2544 1620" 
@@ -579,14 +588,6 @@
                    ID="eSc_textblock_9c9d537b"
                    TAGREFS="BT4249">
           <Shape><Polygon POINTS="739 655 739 944 2538 944 2538 655 925 655"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="731"
-                   VPOS="1584"
-                   WIDTH="427"
-                   HEIGHT="404"
-                   ID="eSc_textblock_637d90d1"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="731 1584 731 1988 1158 1988 1158 1584"/></Shape>
         </TextBlock>
         <TextBlock HPOS="699"
                    VPOS="1319"
