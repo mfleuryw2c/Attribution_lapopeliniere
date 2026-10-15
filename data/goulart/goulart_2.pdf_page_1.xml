@@ -99,7 +99,7 @@
           </TextLine>
           <TextLine ID="eSc_line_6f94a35d"
                     TAGREFS="LT10"
-                    BASELINE="88 640 933 640" 
+                    BASELINE="88 636 933 640" 
                     HPOS="88"
                     VPOS="588"
                     WIDTH="845"
@@ -166,7 +166,7 @@
                    TAGREFS="BT4309">
           <Shape><Polygon POINTS="30 915 30 1760 942 1760 942 915"/></Shape>
           <TextLine ID="eSc_line_f9cfb2c5"
-                    TAGREFS="LT10"
+                    TAGREFS="LT9"
                     BASELINE="113 1278 404 1274" 
                     HPOS="111"
                     VPOS="1231"
@@ -467,6 +467,7 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="716 1813 716 1774 760 1774 760 1813"/></Shape>
           <TextLine ID="eSc_line_5a265829"
+                    TAGREFS="LT8"
                     BASELINE="731 1805 752 1807" 
                     HPOS="728"
                     VPOS="1774"
